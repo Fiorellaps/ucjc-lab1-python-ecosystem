@@ -1,4 +1,4 @@
-![Universidad Camilo José Cela](logo.png)
+<img src="https://iddigitalschool.com/wp-content/uploads/2024/03/UCJC-Horizontal_Granate.png" alt="Universidad Camilo José Cela" width="300">
 
 # Laboratorio 1 · Catálogo de libros
 
